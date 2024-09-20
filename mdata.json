@@ -1,0 +1,538 @@
+{
+    "200": {
+        "name": "Tweedle",
+        "pos_x": 13,
+        "pos_y": 7,
+        "flip": 0,
+        "midi_program": 0,
+        "midi_bank_select_msb": 0
+    },
+    "201": {
+        "name": "Potbelly",
+        "pos_x": 15,
+        "pos_y": 27,
+        "flip": 1,
+        "midi_program": 38,
+        "midi_bank_select_msb": 0
+    },
+    "202": {
+        "name": "Noggin",
+        "pos_x": 11,
+        "pos_y": 25,
+        "flip": 1,
+        "midi_program": 34,
+        "midi_bank_select_msb": 125
+    },
+    "203": {
+        "name": "Toe Jammer",
+        "pos_x": 9,
+        "pos_y": 23,
+        "flip": 1,
+        "midi_program": 53,
+        "midi_bank_select_msb": 1
+    },
+    "204": {
+        "name": "Mammott",
+        "pos_x": 13,
+        "pos_y": 27,
+        "flip": 0,
+        "midi_program": 58,
+        "midi_bank_select_msb": 0
+    },
+    "205": {
+        "name": "Dandidoo",
+        "pos_x": 21,
+        "pos_y": 24,
+        "flip": 0,
+        "midi_program": 53,
+        "midi_bank_select_msb": 0
+    },
+    "206": {
+        "name": "Cybop",
+        "pos_x": 14,
+        "pos_y": 19,
+        "flip": 1,
+        "midi_program": 81,
+        "midi_bank_select_msb": 0
+    },
+    "207": {
+        "name": "Quibble",
+        "pos_x": 23,
+        "pos_y": 8,
+        "flip": 0,
+        "midi_program": 1,
+        "midi_bank_select_msb": 0
+    },
+    "208": {
+        "name": "Pango",
+        "pos_x": 17,
+        "pos_y": 19,
+        "flip": 0,
+        "midi_program": 36,
+        "midi_bank_select_msb": 125
+    },
+    "209": {
+        "name": "Shrubb",
+        "pos_x": 10,
+        "pos_y": 18,
+        "flip": 1,
+        "midi_program": 20,
+        "midi_bank_select_msb": 127
+    },
+    "210": {
+        "name": "Oaktopus",
+        "pos_x": 16,
+        "pos_y": 4,
+        "flip": 0,
+        "midi_program": 37,
+        "midi_bank_select_msb": 0
+    },
+    "211": {
+        "name": "Furcorn",
+        "pos_x": 11,
+        "pos_y": 23,
+        "flip": 0,
+        "midi_program": 95,
+        "midi_bank_select_msb": 0
+    },
+    "212": {
+        "name": "Fwog",
+        "pos_x": 16,
+        "pos_y": 23,
+        "flip": 1,
+        "midi_program": 54,
+        "midi_bank_select_msb": 1
+    },
+    "213": {
+        "name": "Drumpler",
+        "pos_x": 18,
+        "pos_y": 27,
+        "flip": 0,
+        "midi_program": 37,
+        "midi_bank_select_msb": 125
+    },
+    "214": {
+        "name": "Maw",
+        "pos_x": 19,
+        "pos_y": 19,
+        "flip": 0,
+        "midi_program": 54,
+        "midi_bank_select_msb": 2
+    },
+    "215": {
+        "name": "Reedling",
+        "pos_x": 18,
+        "pos_y": 22,
+        "flip": 1,
+        "midi_program": 74,
+        "midi_bank_select_msb": 0
+    },
+    "216": {
+        "name": "Spunge",
+        "pos_x": 18,
+        "pos_y": 14,
+        "flip": 1,
+        "midi_program": 78,
+        "midi_bank_select_msb": 0
+    },
+    "217": {
+        "name": "Thumpies",
+        "pos_x": 24,
+        "pos_y": 27,
+        "flip": 0,
+        "midi_program": 65,
+        "midi_bank_select_msb": 125
+    },
+    "218": {
+        "name": "Scups",
+        "pos_x": 13,
+        "pos_y": 25,
+        "flip": 1,
+        "midi_program": 37,
+        "midi_bank_select_msb": 124
+    },
+    "219": {
+        "name": "PomPom",
+        "pos_x": 7,
+        "pos_y": 21,
+        "flip": 1,
+        "midi_program": 54,
+        "midi_bank_select_msb": 3
+    },
+    "220": {
+        "name": "Congle",
+        "pos_x": 18,
+        "pos_y": 6,
+        "flip": 0,
+        "midi_program": 61,
+        "midi_bank_select_msb": 125
+    },
+    "221": {
+        "name": "Pummel",
+        "pos_x": 16,
+        "pos_y": 21,
+        "flip": 0,
+        "midi_program": 35,
+        "midi_bank_select_msb": 124
+    },
+    "222": {
+        "name": "Clamble",
+        "pos_x": 21,
+        "pos_y": 13,
+        "flip": 0,
+        "midi_program": 41,
+        "midi_bank_select_msb": 125
+    },
+    "223": {
+        "name": "Bowgart",
+        "pos_x": 19,
+        "pos_y": 2,
+        "flip": 0,
+        "midi_program": 44,
+        "midi_bank_select_msb": 0
+    },
+    "224": {
+        "name": "T-Rox",
+        "pos_x": 28,
+        "pos_y": 16,
+        "flip": 0,
+        "midi_program": 10,
+        "midi_bank_select_msb": 127
+    },
+    "225": {
+        "name": "Shellbeat",
+        "pos_x": 20,
+        "pos_y": 23,
+        "flip": 1,
+        "midi_program": 0,
+        "midi_bank_select_msb": 127
+    },
+    "226": {
+        "name": "Quarrister",
+        "pos_x": 20,
+        "pos_y": 17,
+        "flip": 0,
+        "midi_program": 52,
+        "midi_bank_select_msb": 0
+    },
+    "227": {
+        "name": "Deedge",
+        "pos_x": 9,
+        "pos_y": 16,
+        "flip": 0,
+        "midi_program": 11,
+        "midi_bank_select_msb": 127
+    },
+    "228": {
+        "name": "Riff",
+        "pos_x": 15,
+        "pos_y": 13,
+        "flip": 0,
+        "midi_program": 30,
+        "midi_bank_select_msb": 0
+    },
+    "229": {
+        "name": "Entbrat",
+        "pos_x": 31,
+        "pos_y": 13,
+        "flip": 0,
+        "midi_program": 101,
+        "midi_bank_select_msb": 0
+    },
+    "250": {
+        "name": "Dipsters",
+        "pos_x": 10,
+        "pos_y": 24,
+        "flip": 0,
+        "midi_program": 80,
+        "midi_bank_select_msb": 0
+    },
+    "251": {
+        "name": "Rare Reedling",
+        "pos_x": 4,
+        "pos_y": 10,
+        "flip": 0,
+        "midi_program": 24,
+        "midi_bank_select_msb": 0
+    },
+    "252": {
+        "name": "Rare Shellbeat",
+        "pos_x": 12,
+        "pos_y": 13,
+        "flip": 0,
+        "midi_program": 2,
+        "midi_bank_select_msb": 127
+    },
+    "253": {
+        "name": "Rare Deedge",
+        "pos_x": 17,
+        "pos_y": 26,
+        "flip": 1,
+        "midi_program": 86,
+        "midi_bank_select_msb": 0
+    },
+    "254": {
+        "name": "Rare Thumpies",
+        "pos_x": 7,
+        "pos_y": 10,
+        "flip": 0,
+        "midi_program": 114,
+        "midi_bank_select_msb": 0
+    },
+    "255": {
+        "name": "Rare Scups",
+        "pos_x": 11,
+        "pos_y": 21,
+        "flip": 0,
+        "midi_program": 37,
+        "midi_bank_select_msb": 123
+    },
+    "256": {
+        "name": "Rare Riff",
+        "pos_x": 16,
+        "pos_y": 2,
+        "flip": 0,
+        "midi_program": 33,
+        "midi_bank_select_msb": 0
+    },
+    "257": {
+        "name": "Rare Quibble",
+        "pos_x": 9,
+        "pos_y": 4,
+        "flip": 0,
+        "midi_program": 6,
+        "midi_bank_select_msb": 0
+    },
+    "258": {
+        "name": "Rare Congle",
+        "pos_x": 22,
+        "pos_y": 5,
+        "flip": 0,
+        "midi_program": 62,
+        "midi_bank_select_msb": 124
+    },
+    "259": {
+        "name": "Rare Pango",
+        "pos_x": 10,
+        "pos_y": 8,
+        "flip": 1,
+        "midi_program": 69,
+        "midi_bank_select_msb": 124
+    },
+    "260": {
+        "name": "Rare Shrubb",
+        "pos_x": 27,
+        "pos_y": 28,
+        "flip": 0,
+        "midi_program": 21,
+        "midi_bank_select_msb": 127
+    },
+    "261": {
+        "name": "Rare Pummel",
+        "pos_x": 9,
+        "pos_y": 21,
+        "flip": 1,
+        "midi_program": 37,
+        "midi_bank_select_msb": 122
+    },
+    "262": {
+        "name": "Rare Clamble",
+        "pos_x": 28,
+        "pos_y": 31,
+        "flip": 1,
+        "midi_program": 51,
+        "midi_bank_select_msb": 124
+    },
+    "263": {
+        "name": "Rare Bowgart",
+        "pos_x": 32,
+        "pos_y": 15,
+        "flip": 1,
+        "midi_program": 45,
+        "midi_bank_select_msb": 0
+    },
+    "264": {
+        "name": "Rare Noggin",
+        "pos_x": 7,
+        "pos_y": 17,
+        "flip": 0,
+        "midi_program": 40,
+        "midi_bank_select_msb": 124
+    },
+    "265": {
+        "name": "Rare T-Rox",
+        "pos_x": 29,
+        "pos_y": 12,
+        "flip": 0,
+        "midi_program": 3,
+        "midi_bank_select_msb": 127
+    },
+    "266": {
+        "name": "Rare Drumpler",
+        "pos_x": 26,
+        "pos_y": 24,
+        "flip": 0,
+        "midi_program": 39,
+        "midi_bank_select_msb": 124
+    },
+    "267": {
+        "name": "Ghazt",
+        "pos_x": 24,
+        "pos_y": 5,
+        "flip": 1,
+        "midi_program": 84,
+        "midi_bank_select_msb": 0
+    },
+    "268": {
+        "name": "Grumpyre",
+        "pos_x": 27,
+        "pos_y": 26,
+        "flip": 0,
+        "midi_program": 85,
+        "midi_bank_select_msb": 0
+    },
+    "269": {
+        "name": "Reebro",
+        "pos_x": 27,
+        "pos_y": 13,
+        "flip": 1,
+        "midi_program": 4,
+        "midi_bank_select_msb": 127
+    },
+    "270": {
+        "name": "Jeeode",
+        "pos_x": 28,
+        "pos_y": 18,
+        "flip": 0,
+        "midi_program": 9,
+        "midi_bank_select_msb": 0
+    },
+    "271": {
+        "name": "Humbug",
+        "pos_x": 24,
+        "pos_y": 3,
+        "flip": 1,
+        "midi_program": 30,
+        "midi_bank_select_msb": 1
+    },
+    "272": {
+        "name": "Whisp",
+        "pos_x": 29,
+        "pos_y": 28,
+        "flip": 1,
+        "midi_program": 102,
+        "midi_bank_select_msb": 0
+    },
+    "273": {
+        "name": "Nebulob",
+        "pos_x": 29,
+        "pos_y": 8,
+        "flip": 1,
+        "midi_program": 34,
+        "midi_bank_select_msb": 4
+    },
+    "274": {
+        "name": "Sox",
+        "pos_x": 29,
+        "pos_y": 14,
+        "flip": 0,
+        "midi_program": 64,
+        "midi_bank_select_msb": 0
+    },
+    "275": {
+        "name": "Jellbilly",
+        "pos_x": 5,
+        "pos_y": 6,
+        "flip": 0,
+        "midi_program": 34,
+        "midi_bank_select_msb": 5
+    },
+    "276": {
+        "name": "Arackulele",
+        "pos_x": 26,
+        "pos_y": 5,
+        "flip": 0,
+        "midi_program": 25,
+        "midi_bank_select_msb": 0
+    },
+    "277": {
+        "name": "Boodoo",
+        "pos_x": 11,
+        "pos_y": 6,
+        "flip": 0,
+        "midi_program": 53,
+        "midi_bank_select_msb": 124
+    },
+    "278": {
+        "name": "Kazilleon",
+        "pos_x": 9,
+        "pos_y": 6,
+        "flip": 0,
+        "midi_program": 34,
+        "midi_bank_select_msb": 6
+    },
+    "279": {
+        "name": "Bellowfish",
+        "pos_x": 30,
+        "pos_y": 19,
+        "flip": 0,
+        "midi_program": 21,
+        "midi_bank_select_msb": 0
+    },
+    "280": {
+        "name": "Dragonk",
+        "pos_x": 26,
+        "pos_y": 8,
+        "flip": 0,
+        "midi_program": 51,
+        "midi_bank_select_msb": 123
+    },
+    "281": {
+        "name": "Fung Pray",
+        "pos_x": 24,
+        "pos_y": 32,
+        "flip": 1,
+        "midi_program": 48,
+        "midi_bank_select_msb": 0
+    },
+    "32": {
+        "name": "Punkleton",
+        "pos_x": 16,
+        "pos_y": 17,
+        "flip": 0,
+        "midi_program": 34,
+        "midi_bank_select_msb": 7
+    },
+    "33": {
+        "name": "Yool",
+        "pos_x": 7,
+        "pos_y": 19,
+        "flip": 0,
+        "midi_program": 34,
+        "midi_bank_select_msb": 8
+    },
+    "34": {
+        "name": "Schmoochle",
+        "pos_x": 26,
+        "pos_y": 30,
+        "flip": 1,
+        "midi_program": 34,
+        "midi_bank_select_msb": 9
+    },
+    "49": {
+        "name": "Blabbit",
+        "pos_x": 30,
+        "pos_y": 17,
+        "flip": 1,
+        "midi_program": 34,
+        "midi_bank_select_msb": 10
+    },
+    "52": {
+        "name": "Hoola",
+        "pos_x": 15,
+        "pos_y": 26,
+        "flip": 0,
+        "midi_program": 34,
+        "midi_bank_select_msb": 11
+    }
+}
