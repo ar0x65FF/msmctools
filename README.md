@@ -11,6 +11,8 @@ miditoolkit (only for msm2mid)
 ```
 ## mid2msm
 
+MIDI file to msm file
+
 Usage:
 ```
 python mid2msm.py MIDIFILE.mid
@@ -39,6 +41,9 @@ python mid2msm.py -h
 - You can specify min note length (1/8, 1/16, 1/32)
 
 ## msm2mid
+
+MSM file to MIDI file
+
 Usage:
 ```
 python msm2mid.py MSMFILE.msm
