@@ -30,6 +30,7 @@ msm_to_midi_note = {
     36:62,  #   D4
     37:63,  #   D#4
     40:64,  #   E4
+    42:68,  #   G#4 TMP
     44:65,  #   F4
     45:66,  #   F#4
     48:67,  #   G4
@@ -176,11 +177,11 @@ def writeMidiFile2(filename,min_note, ntime_division, outfile):
                 for xnote,xlen,xpos in zip(ttdata.notes, ttdata.lengths, ttdata.times):
                     delta_note_start = (xpos * note_division)
                     delta_note_stop = (xpos * note_division) + (xlen * note_division)
-
-                    note = miditoolkit.midi.containers.Note(velocity=100, pitch=msm_to_midi_note[xnote], start=delta_note_start, end=delta_note_stop)
-                    miditoolkit.midi
-                    track.notes.append(note)
-
+                    try:
+                        note = miditoolkit.midi.containers.Note(velocity=100, pitch=msm_to_midi_note[xnote], start=delta_note_start, end=delta_note_stop)
+                        track.notes.append(note)
+                    except KeyError as e:
+                        print("Detected key out for range {} at Track {}: {}. Skipping Note".format(e, i, monsters_data[mlist.monster_id]['name']))
                 break
     
     midi.dump(target_filename)
