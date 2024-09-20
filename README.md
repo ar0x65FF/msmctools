@@ -43,6 +43,7 @@ python mid2msm.py -h
 ## msm2mid
 
 MSM file to MIDI file
+
 Key signatures other than C Major/A Minor is not currently supported
 
 Usage:
