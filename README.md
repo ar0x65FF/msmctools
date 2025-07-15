@@ -1,6 +1,6 @@
-# My Singing Monsters Composer MIDI Tools
+# My Singing Monsters Composer MIDI Tools/MIDI Converter
 Warning: Before use please backup all your song in My Singing Monster: Composer<br />
-
+It's more like helper program instead full converter
 <br />
 
 Python dependencies:
@@ -11,7 +11,7 @@ miditoolkit (only for msm2mid)
 ```
 ## mid2msm
 
-MIDI file to msm file
+Convert MIDI file to MSM file
 
 Usage:
 ```
@@ -42,7 +42,7 @@ python mid2msm.py -h
 
 ## msm2mid
 
-MSM file to MIDI file
+Convert MSM file to MIDI file
 
 Key signatures other than C Major/A Minor is not currently supported
 
